@@ -24,17 +24,22 @@ https://www.rba.gov.au/statistics/tables/#interest-rates
 
 This page lists statistical tables for a range of economic and financial data produced by the Reserve Bank of Australia and other organisations.
 
-## Visualizations
+# Visualizations
 Put all Graphs here and a short description about what the graph tells
 
-Graph 1
-Graph 2
-Graph 3
-Graph 4
-Graph 5
-Graph 6
+## Graph 1
 
-## Contributors (in alphabetic order)
+## Graph 2
+
+## Graph 3
+
+## Graph 4
+
+## Graph 5
+
+## Graph 6
+
+# Contributors (in alphabetic order)
 Anton
 Malini Sintre
 Masih Qadir
