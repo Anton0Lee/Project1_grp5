@@ -1,27 +1,28 @@
 ## Project1_grp5
 
-## Melbourne Housing Market
+# Melbourne Housing Market
 This project aims to analyse data and answer the following questions
 
-# Question 1: 
+## Question 1: 
 
-# Question 2:
+## Question 2:
 
-# Question 3: 
+## Question 3: 
 
 
-## Dataset
+# Dataset
 - melb_housing_data.csv
 - F5_Indicator_Lending_Rates.csv
 
-  # Melbourne Housing Dataset
-  https://www.kaggle.com/datasets/ronikmalhotra/melbourne-housing-dataset?resource=download 
-  This housing dataset provides a thorough analysis for 2016 to 1st Quarter 2018 of the housing market. 
-  It includes information on housing prices, availability, and key trends, allowing you to gain a better understanding of the market and make informed decisions. Whether you're a homebuyer, investor, or simply interested    in the state of the housing market, this dataset has valuable insights to offer.
+## Melbourne Housing Dataset
+https://www.kaggle.com/datasets/ronikmalhotra/melbourne-housing-dataset?resource=download 
+
+This housing dataset provides a thorough analysis for 2016 to 1st Quarter 2018 of the housing market. It includes information on housing prices, availability, and key trends, allowing you to gain a better understanding of the market and make informed decisions. Whether you're a homebuyer, investor, or simply interested    in the state of the housing market, this dataset has valuable insights to offer.
   
-  # Interest Rate
-  https://www.rba.gov.au/statistics/tables/#interest-rates 
-  This page lists statistical tables for a range of economic and financial data produced by the Reserve Bank of Australia and other organisations.
+## Interest Rate
+https://www.rba.gov.au/statistics/tables/#interest-rates 
+
+This page lists statistical tables for a range of economic and financial data produced by the Reserve Bank of Australia and other organisations.
 
 ## Visualizations
 Put all Graphs here and a short description about what the graph tells
