@@ -51,9 +51,14 @@ Looking at the housing counts compared to the interest rate over the 2 years, we
 Looking at the housing price compared to the interest rate over the 2 years, we can see that the housing price is fluctuating between 0.89Million to 1.2Million but showing a moderate increasing tread over the 2 years. Putting two graphs together, we can see that the housing price is increasing as the interest rate is decreasing overtime. 
 ## Graph 5
 ![q2_price_landsize](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/33c58d59-afcd-4ebc-ad3d-cff331fba75e)
+This plot shows the relationship between property prices and land size, differentiated by property type.
+Inference: Larger land sizes usually command higher prices, with variations across different property types.
+For example houses in remote areas will be higher in land value and lower in Price![image](https://github.com/Anton0Lee/Project1_grp5/assets/151039901/f57f317b-0080-4b92-a9e1-dc9896e5a475)
 
 ## Graph 6
 ![q2_price_buildingarea](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/7e6b0a3d-9c8c-429b-9089-b22268929b11)
+This visualization depicts the correlation between property prices and building area, distinguished by property type.
+Inference: Generally, larger building areas are associated with higher property prices, though this varies by type.
 
 ## Graph 7
 ![q2_top_suburbs_score](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/6d2a570f-e71f-4932-9187-40adcd6303ad)
