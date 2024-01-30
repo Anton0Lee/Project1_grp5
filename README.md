@@ -26,7 +26,6 @@ https://www.rba.gov.au/statistics/tables/#interest-rates
 This page lists statistical tables for a range of economic and financial data produced by the Reserve Bank of Australia and other organisations.
 
 # Visualizations
-Put all Graphs here and a short description about what the graph tells
 
 ## Graph 1  
 ![q1_sales_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/da2efa5c-11a7-422b-abe1-9e410075f92f)
