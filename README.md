@@ -41,6 +41,7 @@ Examining the relationship between houses sold and interest rates revealed a sig
 
 ## Graph 3
 ![q1_sales_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/bd964623-07cd-47b2-9bb0-93f735949212)
+Looking at the housing counts compared to the interest rate over the 2 years, we can see that the interest rates have dropped by 0.41% over 2 years. On the other hand, the housing sale counts is fluctuating between 2 to 1536 houses but showing a weak increasing trend over the 2 years. Putting two graphs together we can see that the housing sale counts increases as the interest rates decreases. 
 
 ## Graph 4
 ![q1_price_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/a8082418-b2ed-4c31-b7b4-36958eeec018)
