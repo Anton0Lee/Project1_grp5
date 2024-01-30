@@ -34,10 +34,10 @@ This page lists statistical tables for a range of economic and financial data pr
 ![q1_sales_irates](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/458d1f76-88b6-492a-879a-df3ff6d10bbc)
 
 ## Graph 3
-![q1_sales_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/4f9d44fb-d82f-414d-a6df-5dcc58dd4882)
+![q1_sales_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/bd964623-07cd-47b2-9bb0-93f735949212)
 
 ## Graph 4
-![q1_price_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/e8e274d5-475b-4f8e-8ace-ffc1ce81f77b)
+![q1_price_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/a8082418-b2ed-4c31-b7b4-36958eeec018)
 
 ## Graph 5
 ![q2_price_landsize](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/33c58d59-afcd-4ebc-ad3d-cff331fba75e)
