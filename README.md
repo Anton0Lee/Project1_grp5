@@ -30,8 +30,12 @@ This page lists statistical tables for a range of economic and financial data pr
 ## Graph 1  
 ![q1_sales_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/da2efa5c-11a7-422b-abe1-9e410075f92f)
 
+Our focus on the number of houses sold over the 24-month period revealed a noteworthy increase in 2017 compared to 2016. While we assumed no external factors changed during this time, we hypothesized that higher interest rates in 2016 might have influenced the observed difference. However, we emphasized the necessity for further analysis to confirm this hypothesis and explore additional factors influencing house sales.
+
 ## Graph 2
 ![q1_sales_irates](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/458d1f76-88b6-492a-879a-df3ff6d10bbc)
+
+Examining the relationship between houses sold and interest rates revealed a significant trend. The majority of houses were sold when interest rates were 5.26% and below, suggesting a positive correlation between lower interest rates and increased house sales. However, we acknowledged that this observation, based on a barplot, requires more in-depth analysis to understand the nuanced dynamics at play. Additional investigations are essential to establish a comprehensive understanding of the relationship between interest rates and houses sold.
 
 ## Graph 3
 ![q1_sales_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/bd964623-07cd-47b2-9bb0-93f735949212)
