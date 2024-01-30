@@ -7,8 +7,9 @@ This project aims to analyse data and answer the following questions
 
 ## Question 2: Optimal Location for Real Estate Investment
 
-## Question 3: 
-
+## Question 3:What are the most expensive suburbs in Melbourn and what factors affect the prices in these suburbs?
+Melbourne's most expensive suburbs and analyze factors influencing property prices. Examine how these factors impact real estate dynamics in these areas.
+providing insights into Melbourne's high-end property market trends.
 
 # Dataset
 - melb_housing_data.csv
