@@ -5,7 +5,7 @@ This project aims to analyse data and answer the following questions
 
 ## Question 1: 
 
-## Question 2:
+## Question 2: Optimal Location for Real Estate Investment
 
 ## Question 3: 
 
