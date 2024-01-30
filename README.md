@@ -58,8 +58,19 @@ Examining the relationship between houses sold and interest rates revealed a sig
 ## Graph 9
 ![q3_most_expensive_suburbs](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/e32884b4-c089-4b03-a2ec-10514a349f93)
 
+This shows top 10 suburbs based on their average housing prices. The x-axis represents the suburbs, while the y-axis represents the average price. 
+The graph is a bar plot, where each bar represents a suburb and its corresponding average price. The height of each bar indicates the average price of the suburb.
+
+![image](https://github.com/Anton0Lee/Project1_grp5/assets/151039901/43141b18-cc47-4317-9d16-4fe89d9a0e7d)
+
+
 ## Graph 10
 ![q3_price_distance](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/27f1d813-6cb4-4485-9fc2-1f1b0c2134da)
+
+The code is performing a linear regression analysis between 'Average Distance from CBD' and 'Average Price'. This is to understand the relationship between these two variables.
+The slope and intercept obtained from the linear regression can give us an idea about the nature of the relationship. The slope is negative, it means that as the average distance from CBD increases, the average price decreases
+The R-value (or correlation coefficient) indicates the strength and direction of the relationship between the two variables. A value close to 1 indicates a strong positive relationship, a value close to -1 indicates a strong negative relationship, and a value close to 0 indicates no relationship. In this case the r value is -0.47, which means there is a negative correlation between the average distance from CBD and the average price of housing. When the average distance from CBD increases, the average price of housing decreases and vis-Versa.
+The scatter plot visualizes the data points and the linear regression line, which can help us visually understand the relationship between the two variables.
 
 
 # Conclusion
