@@ -7,7 +7,11 @@ This project aims to analyse data and answer the following questions
 
 ## Question 2: Optimal Location for Real Estate Investment
 
-## Question 3: 
+## Question 3: Real estate market performance and cultural and demographic diversity
+How does the cultural and demographic diversity of neighbourhoods in Melbourne correlate with real estate market performance?
+•	Investigate whether neighbourhoods with higher cultural and demographic diversity exhibit unique patterns in real estate market dynamics, and if these factors contribute to variations in property values.
+![image](https://github.com/Anton0Lee/Project1_grp5/assets/149569402/aad3125b-c469-43cc-9a5c-a525a6a0fe3d)
+
 
 
 # Dataset
