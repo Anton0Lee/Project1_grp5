@@ -1,7 +1,10 @@
 ## Project1_grp5
 
 # Melbourne Housing Market
-This project aims to analyse data and answer the following questions
+In this repository, we have created this project which aims to analyse data and answer the following questions.  
+The VSCodes for each question are separated in 3 different files labeled Q1, Q2,and Q3.  
+A resources folder is included which contains our dataset.  
+A 'Graph' folder is included which contains all our graphs form the analysis.  
 
 ## Question 1: How does the changes of interest rate impact the housing market? 
 After analysis, it is observed that most houses are sold when the interest rate is low and the least houses are sold when the interest rate is high.  
