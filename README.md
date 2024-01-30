@@ -60,7 +60,7 @@ This page lists statistical tables for a range of economic and financial data pr
 
 # Conclusion
 We've explored the impact of interest rates on house sales, identified optimal locations for investment, and delved into factors influencing prices in high-end suburbs.
-While our analysis provides valuable insights into the trends of the Melbourne real estate market during the 2016-2017 period, it's crucial to acknowledge the dynamic nature of the real estate landscape. Market conditions, economic factors, and external influences can evolve, impacting the relevance of this historical data to the current scenario. Therefore, our findings should be considered within the context of the specific time frame studied, and we recommend continuous monitoring and periodic updates to account for changing market dynamics
+While our analysis provides valuable insights into the trends of the Melbourne real estate market during the 2016-2017 period, it's crucial to acknowledge the dynamic nature of the real estate landscape. Market conditions, economic factors, and external influences can evolve, impacting the relevance of this historical data to the current scenario. Therefore, our findings should be considered within the context of the specific time frame studied, and we recommend continuous monitoring and periodic updates to account for changing market dynamics.
 
 # Contributors (in alphabetic order)
 Anton
