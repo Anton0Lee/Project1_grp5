@@ -45,7 +45,7 @@ Looking at the housing counts compared to the interest rate over the 2 years, we
 
 ## Graph 4
 ![q1_price_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/a8082418-b2ed-4c31-b7b4-36958eeec018)
-
+Looking at the housing price compared to the interest rate over the 2 years, we can see that the housing price is fluctuating between 0.89Million to 1.2Million but showing a moderate increasing tread over the 2 years. Putting two graphs together, we can see that the housing price is increasing as the interest rate is decreasing overtime. 
 ## Graph 5
 ![q2_price_landsize](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/33c58d59-afcd-4ebc-ad3d-cff331fba75e)
 
