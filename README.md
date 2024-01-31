@@ -2,6 +2,7 @@ Project1_grp5
 
 # Melbourne Housing Market
 In this repository, we have created this project which aims to analyse data and answer the following questions.  
+The powerpint is included for our presentation.  
 The VSCodes for each question are separated in 3 different files labeled Q1, Q2,and Q3.  
 A resources folder is included which contains our dataset.  
 A 'Graph' folder is included which contains all our graphs form the analysis.  
