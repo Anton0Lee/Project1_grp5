@@ -1,7 +1,11 @@
-## Project1_grp5
+Project1_grp5
 
 # Melbourne Housing Market
-This project aims to analyse data and answer the following questions
+In this repository, we have created this project which aims to analyse data and answer the following questions.  
+The powerpint is included for our presentation.  
+The VSCodes for each question are separated in 3 different files labeled Q1, Q2,and Q3.  
+A resources folder is included which contains our dataset.  
+A 'Graph' folder is included which contains all our graphs form the analysis.  
 
 ## Question 1: How does the changes of interest rate impact the housing market? 
 After analysis, it is observed that most houses are sold when the interest rate is low and the least houses are sold when the interest rate is high.  
@@ -46,17 +50,44 @@ Looking at the housing counts compared to the interest rate over the 2 years, we
 ## Graph 4
 ![q1_price_irates_overtime](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/a8082418-b2ed-4c31-b7b4-36958eeec018)
 Looking at the housing price compared to the interest rate over the 2 years, we can see that the housing price is fluctuating between 0.89Million to 1.2Million but showing a moderate increasing tread over the 2 years. Putting two graphs together, we can see that the housing price is increasing as the interest rate is decreasing overtime. 
+
 ## Graph 5
 ![q2_price_landsize](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/33c58d59-afcd-4ebc-ad3d-cff331fba75e)
+This plot shows the relationship between property prices and land size, differentiated by property type.
+Inference: Larger land sizes usually command higher prices, with variations across different property types.
+For example houses in remote areas will be higher in land value and lower in Price
 
 ## Graph 6
 ![q2_price_buildingarea](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/7e6b0a3d-9c8c-429b-9089-b22268929b11)
+This visualization depicts the correlation between property prices and building area, distinguished by property type.
+Inference: Generally, larger building areas are associated with higher property prices, though this varies by type.
+
+Interpretation
+Correlation between Price and Landside  0.2171432770316884
+Correlation between Price and BuildingArea  0.5578617577181919
+
+There is a moderate positive correlation between Price and Building area (Higher the Building area higher the Price) In comparison to  Price and Building area correlation  of  0.21  The building area to price relationship appears to be moderately strong .
+When  determining optimal investment It is important not to only rely on Correlation But also consider Causation which identify the cause and effect.
 
 ## Graph 7
 ![q2_top_suburbs_score](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/6d2a570f-e71f-4932-9187-40adcd6303ad)
+This bar graph ranks the top 5 suburbs in Melbourne based on a composite score from various property features.
+Inference: Suburbs like Seaholme rank highest, indicating favourable property features. (Based on Higher average score)
 
 ## Graph 8
 ![q2_bottom_suburbs_score](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/0978208c-6f37-4daf-9bfd-1716669ebb4f)
+
+This graph shows the suburbs with the lowest scores, reflecting less favorable property characteristics.
+Inference: Suburbs such as Emerald and Carrum have lower scores, suggesting less desirable aspects.
+(Based on Lower average score)
+
+## Conclusion on Q2.
+The average score is grouped by suburb based on factors such as ‘Price,Distance', 'Rooms', 'Bedroom', 'Bathroom', 'Car', 'Land size. 
+
+Based on average score ( adjusted for outliers ) Seaholme Ranks 1st in relation to Optimal location for real estate investment.
+
+The suburbs are ranked based on their average scores, and the top 5 suburbs with the highest scores are identified as the best for investment. Conversely, the suburbs with the lowest scores are identified as the worst for investment.
+The analysis provides a data-driven approach to identify attractive and unattractive suburbs for real estate investment in Melbourne. This methodological approach can be enhanced further by integrating more direct measures such as crime rates, school ratings, and amenities when such data becomes available.
 
 ## Graph 9
 ![q3_most_expensive_suburbs](https://github.com/Anton0Lee/Project1_grp5/assets/152049332/e32884b4-c089-4b03-a2ec-10514a349f93)
